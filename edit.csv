@@ -1,0 +1,6 @@
+result;let i = 1;i <= value;i++;i % 2 !== 0 && i % 5 === 0;i % 2 !== 0;i % 5 === 0;i % 2 === 0 && i % 5 !== 0
+Snap;1;true;1;false;true;false;false
+2;2;true;2;false;false;false;true
+Snap;3;true;3;false;true;false;false
+4;4;true;4;false;false;false;true
+SnapCrackle;5;true;5;true;true;true;false
